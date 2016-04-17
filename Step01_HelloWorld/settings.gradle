@@ -1,0 +1,1 @@
+include ':app', ':mymodule', ':step01layout', ':step02activity', ':step03listener', ':step04listview', ':step05customlistview', ':step06intent'

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Step01_HelloWorld.iml" filepath="$PROJECT_DIR$/Step01_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymodule/mymodule.iml" filepath="$PROJECT_DIR$/mymodule/mymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step01layout/step01layout.iml" filepath="$PROJECT_DIR$/step01layout/step01layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step02activity/step02activity.iml" filepath="$PROJECT_DIR$/step02activity/step02activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step03listener/step03listener.iml" filepath="$PROJECT_DIR$/step03listener/step03listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step04listview/step04listview.iml" filepath="$PROJECT_DIR$/step04listview/step04listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step05customlistview/step05customlistview.iml" filepath="$PROJECT_DIR$/step05customlistview/step05customlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step06intent/step06intent.iml" filepath="$PROJECT_DIR$/step06intent/step06intent.iml" />
+    </modules>
+  </component>
+</project>
